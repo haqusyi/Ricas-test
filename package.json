@@ -1,0 +1,17 @@
+{
+  "name": "nodepackege",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "keywords": [
+    "get"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
