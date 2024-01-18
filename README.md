@@ -11,8 +11,10 @@ npm install express-generator -g
 確認のために以下を入力して表示されれば問題ありません。
 express -h
 ４．コンソールで以下を入力して実行してください
+cd testapp
 npm install
 5.コンソールで以下を入力して実行してください
+cd testapp/view
 npm start
 6.ブラウザで以下を入力して実行してください
 http://localhost:3000/
